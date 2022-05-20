@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 updated it1
+=======
+ This is my first file
+>>>>>>> 701d502695421a99ad8ddc34b33f685e70106c6d
